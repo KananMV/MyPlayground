@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/Objects-normal/arm64/report_page-master.d",
+    "diagnostics" : "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/Objects-normal/arm64/report_page-master.dia",
+    "emit-module-dependencies" : "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/Objects-normal/arm64/report_page-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/Objects-normal/arm64/report_page-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/Objects-normal/arm64/report_page-master.swiftdeps"
+  },
+  "/Users/kenan/Documents/ios course apps/report_page/DerivedData/report_page/Index.noindex/Build/Intermediates.noindex/report_page.build/Debug-iphoneos/report_page.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/kenan/Documents/ios course apps/report_page/report_page/AppDelegate.swift" : {
+
+  },
+  "/Users/kenan/Documents/ios course apps/report_page/report_page/SceneDelegate.swift" : {
+
+  },
+  "/Users/kenan/Documents/ios course apps/report_page/report_page/ViewController.swift" : {
+
+  }
+}
